@@ -1,0 +1,17 @@
+[1] https://github.com/google/leveldb
+
+[2] https://raft.github.io/raft.pdf
+
+[3] https://lamport.azurewebsites.net/pubs/paxos-simple.pdf
+
+[4] http://courses.cse.tamu.edu/caverlee/csce438/readings/dynamo-paper.pdf
+
+[5] https://en.wikipedia.org/wiki/Consistent_hashing
+
+[6] https://en.wikipedia.org/wiki/Chord_(peer-to-peer)
+
+[7] https://research.google/pubs/pub36726/
+
+[8] https://www.cockroachlabs.com/guides/cockroachdb-the-resilient-geo-distributed-sql-database-sigmod-2020/
+
+[9] https://paperhub.s3.amazonaws.com/dace52a42c07f7f8348b08dc2b186061.pdf
